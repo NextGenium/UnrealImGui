@@ -10,6 +10,7 @@
 #include "Utilities/WorldContextIndex.h"
 
 #include <imgui.h>
+#include <ThirdParty/ShaderConductor/ShaderConductor/External/DirectXShaderCompiler/include/dxc/Support/WinAdapter.h>
 
 
 // TODO: Refactor ImGui Context Manager, to handle different types of worlds.
